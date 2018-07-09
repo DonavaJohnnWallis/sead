@@ -1,0 +1,3 @@
+# Referenced at /Users/admin/Documents/collect/collect_app/build/intermediates/manifests/full/debug/AndroidManifest.xml:101
+-keep class org.odk.collect.android.application.TestCollect { <init>(...); }
+

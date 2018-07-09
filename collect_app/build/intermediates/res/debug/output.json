@@ -1,0 +1,1 @@
+[{"outputType":{"type":"PROCESSED_RES"},"apkInfo":{"type":"MAIN","splits":[],"versionCode":2890,"versionName":"v1.15.0-149-gf7363fac-dirty","enabled":true,"outputFile":"collect-debug-v1.15.0-149-gf7363fac-dirty.apk","fullName":"debug","baseName":"debug"},"path":"resources-debug.ap_","properties":{"packageId":"org.odk.collect.android","split":"","minSdkVersion":"16"}}]

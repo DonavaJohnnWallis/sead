@@ -1,0 +1,10 @@
+#Mon Jul 09 22:12:35 SAST 2018
+path.2=classes2.dex
+path.1=classes.dex
+path.0=classes.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.2=/Users/admin/Documents/collect/collect_app/build/intermediates/transforms/dexMerger/debug/2
+base.1=/Users/admin/Documents/collect/collect_app/build/intermediates/transforms/dexMerger/debug/1
+base.0=/Users/admin/Documents/collect/collect_app/build/intermediates/transforms/dexMerger/debug/2
